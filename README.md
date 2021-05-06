@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmay Dorge</h1>
 
-- 🔭 I’m currently working on my **Web Development Skills**
+- 🔭 I’m currently working on my **Web Development**
 
 - 🌱 I’m currently learning **Node.JS**
 
