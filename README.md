@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chinmaydorge2002@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmay-Dorge&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinmay-Dorge&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
