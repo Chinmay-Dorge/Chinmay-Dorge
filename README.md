@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam__cd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam__cd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chinmay dorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay dorge" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinmay-dorge-48aab81b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay dorge" height="30" width="40" /></a>
 <a href="https://fb.com/chinmay dorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmay dorge" height="30" width="40" /></a>
 <a href="https://instagram.com/_cd_1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cd_1502" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chinmay_1502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chinmay_1502" height="30" width="40" /></a>
