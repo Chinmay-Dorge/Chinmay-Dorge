@@ -24,7 +24,7 @@
 <a href="https://fb.com/chinmay dorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmay dorge" height="30" width="40" /></a>
 <a href="https://instagram.com/_cd_1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cd_1502" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chinmay_1502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chinmay_1502" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cd_1502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cd_1502" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/CD_1502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="cd_1502" height="30" width="40" /></a>
 </p>
 
 
